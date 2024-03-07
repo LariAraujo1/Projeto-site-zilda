@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(250, 221, 191);
+}
+
+table, th, td{
+    border:1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+    p{
+        color:rgb(4, 0, 255);
+
+    }
+
+h2{
+    color: rgb(161, 117, 211);
+}
+h3{
+    color: brown;
+}
